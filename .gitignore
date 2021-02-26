@@ -22,6 +22,8 @@ bin/
 *.pyc
 src/main/ixi/
 dependency-reduced-pom.xml
+/node_modules
+/build
 
 # Examples
 /scripts/examples/**/*.log
